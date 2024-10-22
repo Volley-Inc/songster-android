@@ -1,0 +1,104 @@
+{
+    "songs": [
+        {
+            "title": "Dancing Queen",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1683009427598-9c21a169f98f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MXwxfGFsbHwyNDF8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Knowing Me, Knowing You",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685313836995-c9218a4f3d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDJ8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Waterloo",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685352212233-76a91e443bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDN8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Take A Chance On Me",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685313837405-c22fb798d866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDR8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "The Name Of The Game",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685600833075-65ea2d2429eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDV8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Walk This Way",
+            "artist": "Aerosmith",
+            "image": "https://images.unsplash.com/photo-1682686580024-580519d4b2d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MXwxfGFsbHwyNDZ8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Boogie Oogie Oogie",
+            "artist": "A Taste Of Honey",
+            "image": "https://images.unsplash.com/photo-1685342950270-e72dca6e97af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDd8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "The Things We Do For Love",
+            "artist": "10cc",
+            "image": "https://images.unsplash.com/photo-1685558823509-91afe12dccb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDh8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "I'm Not In Love",
+            "artist": "10cc",
+            "image": "https://images.unsplash.com/photo-1685342950270-e72dca6e97af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDd8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "You Needed Me",
+            "artist": "Anne Murray"
+        },
+        {
+            "title": "Dancing Queen",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1683009427598-9c21a169f98f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MXwxfGFsbHwyNDF8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Knowing Me, Knowing You",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685313836995-c9218a4f3d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDJ8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Waterloo",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685352212233-76a91e443bb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDN8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Take A Chance On Me",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685313837405-c22fb798d866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDR8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "The Name Of The Game",
+            "artist": "ABBA",
+            "image": "https://images.unsplash.com/photo-1685600833075-65ea2d2429eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDV8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Walk This Way",
+            "artist": "Aerosmith",
+            "image": "https://images.unsplash.com/photo-1682686580024-580519d4b2d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MXwxfGFsbHwyNDZ8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "Boogie Oogie Oogie",
+            "artist": "A Taste Of Honey",
+            "image": "https://images.unsplash.com/photo-1685342950270-e72dca6e97af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDd8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "The Things We Do For Love",
+            "artist": "10cc",
+            "image": "https://images.unsplash.com/photo-1685558823509-91afe12dccb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDh8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "I'm Not In Love",
+            "artist": "10cc",
+            "image": "https://images.unsplash.com/photo-1685342950270-e72dca6e97af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNDd8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        {
+            "title": "You Needed Me",
+            "artist": "Anne Murray",
+            "image": "https://images.unsplash.com/photo-1685633225183-f06ec1cadf9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTI5NzN8MHwxfGFsbHwyNTB8fHx8fHwyfHwxNjg2MjU2MDMxfA&ixlib=rb-4.0.3&q=80&w=800"
+        },
+        
+    ]
+}
