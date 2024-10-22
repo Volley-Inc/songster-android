@@ -1,3 +1,5 @@
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
 pluginManagement {
     repositories {
         google {
@@ -20,5 +22,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Songster"
-include(":app")
- 
+include(":app", "networking", "types")

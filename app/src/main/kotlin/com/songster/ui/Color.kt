@@ -1,4 +1,4 @@
-package com.volleygames.songster.ui.theme
+package com.songster.ui
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,6 +1,5 @@
-package com.volleygames.songster.ui.theme
+package com.songster.ui
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
