@@ -1,4 +1,4 @@
-package com.volleygames.songster.ui.theme
+package com.songster
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

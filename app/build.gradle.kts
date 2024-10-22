@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.volleygames.songster"
+    namespace = "com.songster"
     compileSdk = 34
 
     defaultConfig {
