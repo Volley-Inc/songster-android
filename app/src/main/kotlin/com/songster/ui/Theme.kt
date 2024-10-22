@@ -1,4 +1,4 @@
-package com.songster
+package com.songster.ui
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

@@ -1,4 +1,4 @@
-package com.songster
+package com.songster.ui
 
 import androidx.compose.ui.graphics.Color
 

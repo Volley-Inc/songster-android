@@ -5,4 +5,7 @@ plugins {
 
 android { namespace = "com.songster.networking" }
 
-dependencies {}
+dependencies {
+  implementation(libs.kotlinx.serialization.json)
+  implementation(projects.types)
+}
