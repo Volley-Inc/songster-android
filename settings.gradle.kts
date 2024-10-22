@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Songster"
-include(":app")
- 
+include(":app", "networking")
