@@ -1,11 +1,9 @@
 package com.songster
 
 import androidx.lifecycle.ViewModel
-import androidx.lifecycle.viewModelScope
 import com.songster.networking.SongRepository
 import com.songster.types.SongData
 import kotlinx.coroutines.flow.MutableStateFlow
-import kotlinx.coroutines.launch
 
 class SongViewModel(val songRepository: SongRepository = SongRepository()) : ViewModel() {
   var songs = MutableStateFlow<List<SongData>>(emptyList())
@@ -15,6 +13,6 @@ class SongViewModel(val songRepository: SongRepository = SongRepository()) : Vie
   }
 
   fun loadSongs() {
-    viewModelScope.launch { songs.value = songRepository.loadSongs().songs }
+    songs.value = songRepository.loadSongs().songs
   }
 }

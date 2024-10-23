@@ -6,7 +6,7 @@ import kotlinx.serialization.Serializable
 data class SongData(
     val title: String,
     val artist: String,
-    val image: String? = null,
+    val image: String,
 )
 
 @Serializable
