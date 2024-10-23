@@ -7,5 +7,6 @@ android { namespace = "com.songster.networking" }
 
 dependencies {
   implementation(libs.kotlinx.serialization.json)
+  implementation(libs.coroutines.core)
   implementation(projects.types)
 }

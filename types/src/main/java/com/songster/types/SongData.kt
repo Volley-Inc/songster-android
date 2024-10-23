@@ -4,10 +4,10 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class SongData(
-    val id: Int,
     val title: String,
     val artist: String,
-    val duration: Int,
-    val year: Int,
-    val genre: String
+    val image: String? = null,
 )
+
+@Serializable
+data class SongList(val songs: List<SongData>)
